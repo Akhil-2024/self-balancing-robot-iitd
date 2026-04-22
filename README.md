@@ -1,4 +1,12 @@
 # 🤖 Self-Balancing Two-Wheeled Robot (Inverted Pendulum System)
+## 📸 Robot Setup
+![Robot](docs/images/self_balancing_robot.png)
+
+## 🔌 Circuit Diagram
+![Circuit](docs/images/Circuit_diagram.png)
+
+## 🔗 Connection Diagram
+![Connection](docs/images/connection_diagram.png)
 
 ---
 
@@ -112,6 +120,20 @@ u = −Kx
 | Kalman Filter | Smooth and accurate |
 | PID Control | Stable balancing achieved |
 | LQR Control | Smoother and optimal response |
+
+## 📊 Results
+
+### Raw Angle vs Filtered Angle
+![Kalman](docs/images/kalman_angle_plot.png)
+
+### PID Output
+![PID](docs/images/motor_gyro_pid_output.png)
+
+### LQR Output
+![LQR](docs/images/motor_gyro_lqr_output.png)
+
+### Motor Test Output
+![Motor](docs/images/motor_test_output.png)
 
 ---
 
