@@ -1,18 +1,18 @@
-# ⭐ Self-Balancing Robot | IIT Delhi Project
+#  Self-Balancing Robot | IIT Delhi Project
 
-# 🤖 Self-Balancing Two-Wheeled Robot (Inverted Pendulum System)
+#  Self-Balancing Two-Wheeled Robot (Inverted Pendulum System)
 
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Platform](https://img.shields.io/badge/platform-Arduino-green)
 ![Control](https://img.shields.io/badge/control-PID%20%7C%20LQR-orange)
 
-## 📸 Robot Setup
+##  Robot Setup
 ![Robot](docs/images/self_balancing_robot.png)
 
 ## 🔌 Circuit Diagram
 ![Circuit](docs/images/Circuit_diagram.png)
 
-## 🔗 Connection Diagram
+##  Connection Diagram
 ![Connection](docs/images/connection_diagram.png)
 
 ---
@@ -88,7 +88,7 @@ The robot follows a closed-loop control system:
 
 ---
 
-## 📐 Mathematical Model
+##  Mathematical Model
 
 ### Accelerometer Angle
 θ = tan⁻¹(ay / az)
@@ -143,10 +143,10 @@ u = −Kx
 ![Motor](docs/images/motor_test_output.png)
 
 ---
-## 📄 Project Report
+##  Project Report
 [Download Report](docs/report.pdf)
 
-## 📊 Presentation
+##  Presentation
 [Download PPT](docs/presentation.pptx)
 
 
@@ -178,7 +178,7 @@ u = −Kx
 
 ---
 
-## 🎥 Demo Video
+##  Demo Video
 
 Video_Link : https://drive.google.com/file/d/1Qnsx4RtPUd80GbJeFUx2n5KEezQXOprg/view?usp=sharing
 
@@ -199,6 +199,6 @@ Department of Electrical Engineering
 
 ---
 
-## 📜 License
+##  License
 
 MIT License
