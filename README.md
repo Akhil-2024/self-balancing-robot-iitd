@@ -1,4 +1,11 @@
+# ⭐ Self-Balancing Robot | IIT Delhi Project
+
 # 🤖 Self-Balancing Two-Wheeled Robot (Inverted Pendulum System)
+
+![License](https://img.shields.io/badge/license-MIT-blue)
+![Platform](https://img.shields.io/badge/platform-Arduino-green)
+![Control](https://img.shields.io/badge/control-PID%20%7C%20LQR-orange)
+
 ## 📸 Robot Setup
 ![Robot](docs/images/self_balancing_robot.png)
 
