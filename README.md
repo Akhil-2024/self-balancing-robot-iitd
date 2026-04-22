@@ -136,6 +136,13 @@ u = −Kx
 ![Motor](docs/images/motor_test_output.png)
 
 ---
+## 📄 Project Report
+[Download Report](docs/report.pdf)
+
+## 📊 Presentation
+[Download PPT](docs/presentation.pptx)
+
+
 
 ##  Key Insights
 
@@ -164,7 +171,7 @@ u = −Kx
 
 ---
 
-##  Demonstration
+## 🎥 Demo Video
 
 Video_Link : https://drive.google.com/file/d/1Qnsx4RtPUd80GbJeFUx2n5KEezQXOprg/view?usp=sharing
 
