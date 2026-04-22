@@ -123,7 +123,7 @@ u = −Kx
 
 ## 📊 Results
 
-### Raw Angle vs Filtered Angle
+### Raw Angle 
 ![Kalman](docs/images/kalman_angle_plot.png)
 
 ### PID Output
